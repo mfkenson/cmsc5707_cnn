@@ -41,6 +41,7 @@ This python package is responsible for saving the preprocessed 8-bit numpy array
 This tutorial is successfully tested on following environments
 * Python3.6 on ubuntu 18.04 with Nvidia GTX1650 CUDA10.2
 * Google colab platform (Jupyter Notebook with GPU)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mfkenson/cmsc5707_cnn/blob/main/colab.ipynb)
 
 All packages can be installed using the well-known pip package installer for Python.
 It is also recommended to be installed with anaconda virtual environment.
